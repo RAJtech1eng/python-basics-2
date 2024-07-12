@@ -1,0 +1,3 @@
+print("ALGEBRA \nTOPOLOGY\nCOMBINATORICS\ndifferential geometry")  #  use of line break 
+print("1\n12\n123\n1234\12345\n123456\n1234567\n12345678\n123456789\n0123456789")
+print("A\nAB\nABC\nABCD\nABCD\nABCDE\nABCDEF\nABCDEFG\nABCDEFGH")
